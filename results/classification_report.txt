@@ -1,0 +1,15 @@
+Human Activity Recognition -- Classification Report
+============================================================
+
+                precision    recall  f1-score   support
+
+ApplyEyeMakeup       0.33      1.00      0.50         3
+        Biking       0.00      0.00      0.00         3
+   JumpingJack       0.33      1.00      0.50         3
+       PushUps       0.00      0.00      0.00         3
+        Squats       0.00      0.00      0.00         3
+WalkingWithDog       0.00      0.00      0.00         3
+
+      accuracy                           0.33        18
+     macro avg       0.11      0.33      0.17        18
+  weighted avg       0.11      0.33      0.17        18

@@ -1,0 +1,14 @@
+{
+  "top_1_accuracy": 0.3333,
+  "macro_precision": 0.1111,
+  "macro_recall": 0.3333,
+  "macro_f1": 0.1667,
+  "weighted_f1": 0.1667,
+  "avg_inference_ms_per_sample": 220.0,
+  "fps_estimate": 4.55,
+  "total_parameters": 2250662,
+  "trainable_parameters": 1323654,
+  "num_test_samples": 18,
+  "num_classes_evaluated": 6,
+  "note": "Trained with frozen MobileNetV3 backbone on 24-video local subset. In-sample eval."
+}
